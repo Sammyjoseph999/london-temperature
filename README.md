@@ -22,3 +22,7 @@ jupyter notebook notebook.ipynb
 ```
 
 Running the notebook creates a local `mlflow.db` file. To browse the runs: `mlflow ui --backend-store-uri sqlite:///mlflow.db`.
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
